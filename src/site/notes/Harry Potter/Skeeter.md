@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/harry-potter/skeeter/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
+
 [[Harry Potter/Albus Dumbledore\|Albus Dumbledore]]
 [[Harry Potter/Amos Diggory\|Amos Diggory]]
 [[Harry Potter/Harry Potter\|Harry Potter]]
