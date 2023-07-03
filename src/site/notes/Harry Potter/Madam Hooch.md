@@ -1,0 +1,21 @@
+---
+dg-publish: true
+---
+[[Harry Potter/Alicia Spinnet\|Alicia Spinnet]]
+[[Harry Potter/Angelina Johnson\|Angelina Johnson]]
+[[Harry Potter/Cedric Diggory\|Cedric Diggory]]
+[[Harry Potter/Draco Malfoy\|Draco Malfoy]]
+[[Harry Potter/Fred Weasley\|Fred Weasley]]
+[[Harry Potter/George Weasley\|George Weasley]]
+[[Harry Potter/Gryffindor\|Gryffindor]]
+[[Harry Potter/Harry Potter\|Harry Potter]]
+[[Harry Potter/Hermione Granger\|Hermione Granger]]
+[[Harry Potter/Hufflepuff\|Hufflepuff]]
+[[Harry Potter/Katie Bell\|Katie Bell]]
+[[Harry Potter/Oliver Wood\|Oliver Wood]]
+[[Harry Potter/Professor Flitwick\|Professor Flitwick]]
+[[Harry Potter/Neville Longbottom\|Neville Longbottom]]
+[[Harry Potter/Vincent Crabbe\|Vincent Crabbe]]
+[[Harry Potter/Ron Weasley\|Ron Weasley]]
+[[Harry Potter/Slytherin\|Slytherin]]
+[[Harry Potter/Ravenclaw\|Ravenclaw]]
