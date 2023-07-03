@@ -1,0 +1,20 @@
+---
+dg-publish: true
+---
+[[Harry Potter/Albus Dumbledore\|Albus Dumbledore]]
+[[Harry Potter/Cornelius Fudge\|Cornelius Fudge]]
+[[Harry Potter/Harry Potter\|Harry Potter]]
+[[Harry Potter/Hermione Granger\|Hermione Granger]]
+[[Harry Potter/Professor Severus Snape\|Professor Severus Snape]]
+[[Harry Potter/Padfoot\|Padfoot]]
+[[Harry Potter/Professor Flitwick\|Professor Flitwick]]
+[[Harry Potter/Professor Minerva Mcgonagall\|Professor Minerva Mcgonagall]]
+[[Harry Potter/Lily Potter\|Lily Potter]]
+[[Harry Potter/Rubeus Hagrid\|Rubeus Hagrid]]
+[[Harry Potter/Professor Lupin\|Professor Lupin]]
+[[Harry Potter/Ron Weasley\|Ron Weasley]]
+[[Harry Potter/Sirius Black\|Sirius Black]]
+[[Harry Potter/Wormtail\|Wormtail]]
+[[Harry Potter/Madam Pomfrey\|Madam Pomfrey]]
+[[Harry Potter/Peter Pettigrew\|Peter Pettigrew]]
+[[Harry Potter/Voldemort\|Voldemort]]
