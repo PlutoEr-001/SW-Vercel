@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/harry-potter/albus-dumbledore/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
+
 [[Harry Potter/Buckbeak\|Buckbeak]]
 [[Harry Potter/Fat Friar\|Fat Friar]]
 [[Harry Potter/Dean Thomas\|Dean Thomas]]
