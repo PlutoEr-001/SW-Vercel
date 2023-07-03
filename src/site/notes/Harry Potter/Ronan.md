@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/harry-potter/ronan/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
+
 [[Harry Potter/Bane\|Bane]]
 [[Harry Potter/Firenze\|Firenze]]
 [[Harry Potter/Harry Potter\|Harry Potter]]
