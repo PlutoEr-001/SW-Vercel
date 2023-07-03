@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/harry-potter/slytherin/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
+
 [[Harry Potter/Albus Dumbledore\|Albus Dumbledore]]
 [[Harry Potter/Alicia Spinnet\|Alicia Spinnet]]
 [[Harry Potter/Angelina Johnson\|Angelina Johnson]]
