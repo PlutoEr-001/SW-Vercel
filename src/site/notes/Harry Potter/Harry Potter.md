@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"dg-home":true,"permalink":"/harry-potter/harry-potter/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"","updated":""}
 ---
+
 [[Harry Potter/Albus Dumbledore\|Albus Dumbledore]]
 [[Harry Potter/Alicia Spinnet\|Alicia Spinnet]]
 [[Harry Potter/Amos Diggory\|Amos Diggory]]
