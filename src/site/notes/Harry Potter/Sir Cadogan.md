@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/harry-potter/sir-cadogan/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
+
 [[Harry Potter/Fat Friar\|Fat Friar]]
 [[Harry Potter/Filch\|Filch]]
 [[Harry Potter/Gryffindor\|Gryffindor]]
