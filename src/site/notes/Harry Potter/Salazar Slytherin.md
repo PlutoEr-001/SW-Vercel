@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/harry-potter/salazar-slytherin/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
+
 [[Harry Potter/Albus Dumbledore\|Albus Dumbledore]]
 [[Harry Potter/Draco Malfoy\|Draco Malfoy]]
 [[Harry Potter/Godric Gryffindor\|Godric Gryffindor]]
