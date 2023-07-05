@@ -8,7 +8,7 @@
         <img src="http://rxbg5ysja.bkt.gdipper.com/We.png" alt="Harry Potter Banner" width="600" height="800" >
 </body>
 <h2 style="color:  #488AC7 ;">About Harry Potter</h2>
-Harry Potteris a popular fantasy novel series written by J.K. Rowling.The story revolves around a young wizard named [[WizardingWorldOfHarry_Potter/Harry Potter\|Harry Potter]] and his adventures at Hogwarts School of Witchcraft and Wizardry.It features magic, friendship, courage, and the ongoing battle between good and evil.
+Harry Potteris a popular fantasy novel series written by J.K. Rowling.The story revolves around a young wizard named Harry Potter and his adventures at Hogwarts School of Witchcraft and Wizardry.It features magic, friendship, courage, and the ongoing battle between good and evil.
 <h2 style="color:#488AC7 ;">Explore the Wizarding World</h2>
 In the Harry Potter series, you will encounter various magical creatures, spells,and enchanting locations.Join Harry, Hermione Granger, and Ron Weasley as they navigate through mystical challenges, confront dark forces, and forge lifelong friendships.
        <img src="http://rxbg5ysja.bkt.gdipper.com/cloud.png" alt="Image" width="600" height="450" margin=“0” >
