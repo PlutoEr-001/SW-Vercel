@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-home":true,"permalink":"/harry-potter/harry-potter/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
-![Harry](http://rxbg5ysja.bkt.gdipper.com/Harry_Potter.png)
+![Harry](https://bhimgs.com/i/2023/07/05/Albus_Dumbledore.png)
 [[Harry Potter/Albus Dumbledore\|Albus Dumbledore]]
 [[Harry Potter/Alicia Spinnet\|Alicia Spinnet]]
 [[Harry Potter/Amos Diggory\|Amos Diggory]]
