@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/wizarding-world-of-harry-potter/percy-weasley/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
+
 ![Percy Weasley](http://rxbg5ysja.bkt.gdipper.com/Percy_Weasley.png)
 # Introduction
 Percy Ignatius "Perce" Weasley (b. 22 August 1976) was an English pure-blood wizard, the third child of Arthur and Molly Weasley (née Prewett). He was the younger brother of Bill and Charlie, the older brother of the late Fred Weasley, George, Ron and Ginny. He attended Hogwarts School of Witchcraft and Wizardry from 1987-1994, and was both a prefect and Head Boy.
