@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wizarding-world-of-harry-potter/ginny-weasley/","dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"permalink":"/WizardingWorldOfHarry_Potter/Ginny Weasley/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 ![Ginny Weasley](http://rxbg5ysja.bkt.gdipper.com/Ginny_Weasley.png)
