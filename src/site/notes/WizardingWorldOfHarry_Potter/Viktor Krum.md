@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wizarding-world-of-harry-potter/viktor-krum/","dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"permalink":"/WizardingWorldOfHarry_Potter/Viktor Krum/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 ![Viktor Krum](http://rxbg5ysja.bkt.gdipper.com/Viktor_Krum.png)
