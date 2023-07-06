@@ -37,4 +37,4 @@ Immerse yourself in the enchanting world of Harry Potter by reading the books, w
 
 <h2 style="color:#488AC7; ">SUPPORT US</h2>
 
-If you like this site, please star our github [project](https://github.com/HuiyuanYan/WizardingWorldOfHarry_Potter_in_Obsidian.git).      (◦˙▽˙◦)
+If you like this site, please star our github [project](https://github.com/HuiyuanYan/WizardingWorldOfHP) .      (◦˙▽˙◦)
