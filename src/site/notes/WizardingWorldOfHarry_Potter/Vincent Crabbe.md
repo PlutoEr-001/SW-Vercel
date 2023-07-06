@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/wizarding-world-of-harry-potter/vincent-crabbe/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
+
 ![Vincent Crabbe](http://rxbg5ysja.bkt.gdipper.com/Vincent_Crabbe.png)
 # Introduction
 Vincent Crabbe (c. 1980 – 2 May 1998) was a pure-blood wizard, and the son of Death Eater Crabbe Snr. He came from a line of Dark wizards and Death Eaters, with his father and possibly grandfather before him.
