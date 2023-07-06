@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wizarding-world-of-harry-potter/sir-cadogan/","dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"permalink":"/WizardingWorldOfHarry_Potter/Sir Cadogan/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 ![Sir Cadogan](http://rxbg5ysja.bkt.gdipper.com/Sir_Cadogan.png)
