@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wizarding-world-of-harry-potter/alicia-spinnet/","dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"permalink":"/WizardingWorldOfHarry_Potter/Alicia Spinnet/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 ![Alicia Spinnet](http://rxbg5ysja.bkt.gdipper.com/Alicia_Spinnet.png)
