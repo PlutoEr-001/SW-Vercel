@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wizarding-world-of-harry-potter/cedric-diggory/","dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"permalink":"/WizardingWorldOfHarry_Potter/Cedric Diggory/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 ![Cedric Diggory](http://rxbg5ysja.bkt.gdipper.com/Cedric_Diggory.png)
