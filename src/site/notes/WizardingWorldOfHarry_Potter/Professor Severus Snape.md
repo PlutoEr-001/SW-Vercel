@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/wizarding-world-of-harry-potter/professor-severus-snape/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
+
 ![Professor Severus Snape](http://rxbg5ysja.bkt.gdipper.com/Professor_Severus_Snape.png)
 # Introduction
 Professor Severus Snape (9 January 1960 – 2 May 1998) was an English half-blood wizard serving as Potions Master (1981-1996), Head of Slytherin House (1981-1997), Defence Against the Dark Arts professor (1996-1997), and Headmaster (1997-1998) of the Hogwarts School of Witchcraft and Wizardry as well as a member of the Order of the Phoenix and a Death Eater. His double life played an extremely important role in both of the Wizarding Wars against Voldemort.
