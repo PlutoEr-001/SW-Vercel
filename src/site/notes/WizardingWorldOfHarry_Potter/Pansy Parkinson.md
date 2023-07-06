@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/wizarding-world-of-harry-potter/pansy-parkinson/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
+
 ![Pansy Parkinson](http://rxbg5ysja.bkt.gdipper.com/Pansy_Parkinson.png)
 # Introduction
 Pansy Parkinson (b. 1979/1980) was a witch in Harry Potter's year at Hogwarts School of Witchcraft and Wizardry. She was born into the Parkinson family, members of the Sacred Twenty-Eight. Pansy was sorted into Slytherin House and in her fifth year became a prefect. In the same year she became a member of the short-lived Inquisitorial Squad.
