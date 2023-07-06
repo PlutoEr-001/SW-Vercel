@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wizarding-world-of-harry-potter/bill-weasley/","dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"permalink":"/WizardingWorldOfHarry_Potter/Bill Weasley/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 ![Bill Weasley](http://rxbg5ysja.bkt.gdipper.com/Bill_Weasley.png)
