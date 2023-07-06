@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wizarding-world-of-harry-potter/albus-dumbledore/","dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"permalink":"/WizardingWorldOfHarry_Potter/Albus Dumbledore/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 ![Albus Dumbledore](http://rxbg5ysja.bkt.gdipper.com/Albus_Dumbledore.png)
