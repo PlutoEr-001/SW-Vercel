@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wizarding-world-of-harry-potter/fluffy/","dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"permalink":"/WizardingWorldOfHarry_Potter/Fluffy/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 ![Fluffy](http://rxbg5ysja.bkt.gdipper.com/Fluffy.png)
