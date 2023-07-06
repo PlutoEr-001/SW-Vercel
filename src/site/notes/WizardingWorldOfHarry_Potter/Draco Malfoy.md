@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wizarding-world-of-harry-potter/draco-malfoy/","dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"permalink":"/WizardingWorldOfHarry_Potter/Draco Malfoy/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 ![Draco Malfoy](http://rxbg5ysja.bkt.gdipper.com/Draco_Malfoy.png)
