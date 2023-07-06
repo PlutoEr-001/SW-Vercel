@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wizarding-world-of-harry-potter/madam-pomfrey/","dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"permalink":"/WizardingWorldOfHarry_Potter/Madam Pomfrey/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 ![Madam Pomfrey](http://rxbg5ysja.bkt.gdipper.com/Madam_Pomfrey.png)
