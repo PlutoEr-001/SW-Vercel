@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wizarding-world-of-harry-potter/percy-weasley/","dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"permalink":"/WizardingWorldOfHarry_Potter/Percy Weasley/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 ![Percy Weasley](http://rxbg5ysja.bkt.gdipper.com/Percy_Weasley.png)
