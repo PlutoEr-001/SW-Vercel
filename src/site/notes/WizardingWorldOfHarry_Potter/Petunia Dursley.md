@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/wizarding-world-of-harry-potter/petunia-dursley/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
+
 ![Petunia Dursley](http://rxbg5ysja.bkt.gdipper.com/Petunia_Dursley.png)
 # Introduction
 Petunia Dursley (née Evans) (pre 1960 – pre 2020) was an English Muggle woman, the elder daughter of Mr and Mrs Evans and the older sister of the Muggle-born witch Lily Potter. During her childhood, she became resentful of her sister for being a witch, broke off contact with her sister and refused to have any contact with the wizarding world.
