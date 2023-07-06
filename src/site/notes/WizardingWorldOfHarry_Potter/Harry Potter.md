@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wizarding-world-of-harry-potter/harry-potter/","dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"permalink":"/WizardingWorldOfHarry_Potter/Harry Potter/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 ![Harry Potter](http://rxbg5ysja.bkt.gdipper.com/Harry_Potter.png)
