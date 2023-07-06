@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wizarding-world-of-harry-potter/pansy-parkinson/","dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"permalink":"/WizardingWorldOfHarry_Potter/Pansy Parkinson/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 ![Pansy Parkinson](http://rxbg5ysja.bkt.gdipper.com/Pansy_Parkinson.png)
