@@ -19,21 +19,21 @@ Immerse yourself in the enchanting world of Harry Potter by reading the books, w
 
 <h2 style="color:#488AC7; ">LET US START FROM......</h2>
 
-[[WizardingWorldOfHarry_Potter/Harry Potter\|Harry Potter]]
+[[WizardingWorldOfHarryPotter/Harry Potter\|Harry Potter]]
 
-[[WizardingWorldOfHarry_Potter/Hermione Granger\|Hermione Granger]]
+[[WizardingWorldOfHarryPotter/Hermione Granger\|Hermione Granger]]
 
-[[WizardingWorldOfHarry_Potter/Ron Weasley\|Ron Weasley]]
+[[WizardingWorldOfHarryPotter/Ron Weasley\|Ron Weasley]]
 
-[[WizardingWorldOfHarry_Potter/Albus Dumbledore\|Albus Dumbledore]]
+[[WizardingWorldOfHarryPotter/Albus Dumbledore\|Albus Dumbledore]]
 
-[[WizardingWorldOfHarry_Potter/Rubeus Hagrid\|Rubeus Hagrid]]
+[[WizardingWorldOfHarryPotter/Rubeus Hagrid\|Rubeus Hagrid]]
 
-[[WizardingWorldOfHarry_Potter/Professor Severus Snape\|Professor Severus Snape]]
+[[WizardingWorldOfHarryPotter/Professor Severus Snape\|Professor Severus Snape]]
 
-[[WizardingWorldOfHarry_Potter/Draco Malfoy\|Draco Malfoy]]
+[[WizardingWorldOfHarryPotter/Draco Malfoy\|Draco Malfoy]]
 
-[[WizardingWorldOfHarry_Potter/Voldemort\|Voldemort]]
+[[WizardingWorldOfHarryPotter/Voldemort\|Voldemort]]
 
 <h2 style="color:#488AC7; ">SUPPORT US</h2>
 
