@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wizarding-world-of-harry-potter/tom-riddle/","dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"permalink":"/WizardingWorldOfHarry_Potter/Tom Riddle/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 ![Tom Riddle](http://rxbg5ysja.bkt.gdipper.com/Tom_Riddle.png)
