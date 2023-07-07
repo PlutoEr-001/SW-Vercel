@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/WizardingWorldOfHarry_Potter/Mr Ollivander/","dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"permalink":"/wizarding-world-of-harry-potter/mr-ollivander/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 ![Mr Ollivander](http://rxbg5ysja.bkt.gdipper.com/Mr_Ollivander.png)
