@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wizarding-world-of-harry-potter/lee-jordan/","dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"permalink":"/WizardingWorldOfHarry_Potter/Lee Jordan/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 ![Lee Jordan](http://rxbg5ysja.bkt.gdipper.com/Lee_Jordan.png)
