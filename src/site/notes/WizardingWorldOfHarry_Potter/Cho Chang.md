@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/WizardingWorldOfHarry_Potter/Cho Chang/","dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"permalink":"/wizarding-world-of-harry-potter/cho-chang/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 ![Cho Chang](http://rxbg5ysja.bkt.gdipper.com/Cho_Chang.png)
