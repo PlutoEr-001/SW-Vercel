@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/WizardingWorldOfHarry_Potter/Amos Diggory/","dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"permalink":"/wizarding-world-of-harry-potter/amos-diggory/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 ![Amos Diggory](http://rxbg5ysja.bkt.gdipper.com/Amos_Diggory.png)
