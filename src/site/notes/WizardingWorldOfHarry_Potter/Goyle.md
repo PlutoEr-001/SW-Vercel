@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/WizardingWorldOfHarry_Potter/Goyle/","dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"permalink":"/wizarding-world-of-harry-potter/goyle/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 ![Goyle](http://rxbg5ysja.bkt.gdipper.com/Goyle.png)
