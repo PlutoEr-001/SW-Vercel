@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/WizardingWorldOfHarry_Potter/Colin Creevey/","dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"permalink":"/wizarding-world-of-harry-potter/colin-creevey/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 ![Colin Creevey](http://rxbg5ysja.bkt.gdipper.com/Colin_Creevey.png)
