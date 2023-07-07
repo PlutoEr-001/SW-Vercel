@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/WizardingWorldOfHarry_Potter/Bertha Jorkins/","dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"permalink":"/wizarding-world-of-harry-potter/bertha-jorkins/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 ![Bertha Jorkins](http://rxbg5ysja.bkt.gdipper.com/Bertha_Jorkins.png)
