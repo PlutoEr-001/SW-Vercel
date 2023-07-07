@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/WizardingWorldOfHarry_Potter/Vernon Dursley/","dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"permalink":"/wizarding-world-of-harry-potter/vernon-dursley/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 ![Vernon Dursley](http://rxbg5ysja.bkt.gdipper.com/Vernon_Dursley.png)
