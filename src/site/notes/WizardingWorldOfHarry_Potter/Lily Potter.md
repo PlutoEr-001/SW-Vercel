@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/WizardingWorldOfHarry_Potter/Lily Potter/","dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"permalink":"/wizarding-world-of-harry-potter/lily-potter/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 ![Lily Potter](http://rxbg5ysja.bkt.gdipper.com/Lily_Potter.png)
