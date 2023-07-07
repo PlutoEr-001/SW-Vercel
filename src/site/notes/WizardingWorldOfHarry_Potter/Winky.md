@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wizarding-world-of-harry-potter/winky/","dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"permalink":"/WizardingWorldOfHarry_Potter/Winky/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 ![Winky](http://rxbg5ysja.bkt.gdipper.com/Winky.png)
