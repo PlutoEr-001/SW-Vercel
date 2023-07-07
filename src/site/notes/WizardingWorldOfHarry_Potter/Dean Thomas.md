@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wizarding-world-of-harry-potter/dean-thomas/","dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"permalink":"/WizardingWorldOfHarry_Potter/Dean Thomas/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 ![Dean Thomas](http://rxbg5ysja.bkt.gdipper.com/Dean_Thomas.png)
