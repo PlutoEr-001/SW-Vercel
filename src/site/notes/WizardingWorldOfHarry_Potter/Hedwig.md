@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/WizardingWorldOfHarry_Potter/Hedwig/","dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"permalink":"/wizarding-world-of-harry-potter/hedwig/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 ![Hedwig](http://rxbg5ysja.bkt.gdipper.com/Hedwig.png)
