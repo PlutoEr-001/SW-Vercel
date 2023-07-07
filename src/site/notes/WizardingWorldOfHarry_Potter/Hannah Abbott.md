@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/WizardingWorldOfHarry_Potter/Hannah Abbott/","dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"permalink":"/wizarding-world-of-harry-potter/hannah-abbott/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 ![Hannah Abbott](http://rxbg5ysja.bkt.gdipper.com/Hannah_Abbott.png)
