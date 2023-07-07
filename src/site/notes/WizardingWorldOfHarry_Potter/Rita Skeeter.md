@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/WizardingWorldOfHarry_Potter/Rita Skeeter/","dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"permalink":"/wizarding-world-of-harry-potter/rita-skeeter/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 ![Rita Skeeter](http://rxbg5ysja.bkt.gdipper.com/Rita_Skeeter.png)
