@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/WizardingWorldOfHarry_Potter/Alastor Moody/","dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"permalink":"/wizarding-world-of-harry-potter/alastor-moody/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 ![Alastor Moody](http://rxbg5ysja.bkt.gdipper.com/Alastor_Moody.png)
