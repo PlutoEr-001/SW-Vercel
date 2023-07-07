@@ -2,7 +2,6 @@
 {"dg-publish":true,"dg-home":true,"permalink":"/HomePage/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
-
 <body>
         <h1 style="color: #FFCC33;">Welcome to the World of Harry Potter!</h1>
         <img src="http://rxbg5ysja.bkt.gdipper.com/We.png" alt="Harry Potter Banner" width="600" height="800" >
@@ -38,3 +37,5 @@ Immerse yourself in the enchanting world of Harry Potter by reading the books, w
 <h2 style="color:#488AC7; ">SUPPORT US</h2>
 
 If you like this site, please star our github [project](https://github.com/HuiyuanYan/WizardingWorldOfHP) .      (◦˙▽˙◦)
+
+<audio src="http://rxbg5ysja.bkt.gdipper.com/Hedwig%27Theme.mp3" id="dd" autoplay="autoplay" controls="controls" loop="loop"></audio>
