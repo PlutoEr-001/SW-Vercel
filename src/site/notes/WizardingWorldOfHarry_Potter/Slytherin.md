@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/WizardingWorldOfHarry_Potter/Slytherin/","dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"permalink":"/wizarding-world-of-harry-potter/slytherin/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 ![Slytherin](http://rxbg5ysja.bkt.gdipper.com/Slytherin.png)
