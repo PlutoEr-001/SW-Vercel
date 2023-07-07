@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wizarding-world-of-harry-potter/petunia-dursley/","dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"permalink":"/WizardingWorldOfHarry_Potter/Petunia Dursley/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 ![Petunia Dursley](http://rxbg5ysja.bkt.gdipper.com/Petunia_Dursley.png)
