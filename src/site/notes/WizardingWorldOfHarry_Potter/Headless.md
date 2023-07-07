@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/WizardingWorldOfHarry_Potter/Headless/","dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"permalink":"/wizarding-world-of-harry-potter/headless/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 ![Headless](http://rxbg5ysja.bkt.gdipper.com/Headless.png)
