@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/WizardingWorldOfHarry_Potter/Vincent Crabbe/","dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"permalink":"/wizarding-world-of-harry-potter/vincent-crabbe/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 ![Vincent Crabbe](http://rxbg5ysja.bkt.gdipper.com/Vincent_Crabbe.png)
