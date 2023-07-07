@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/WizardingWorldOfHarryPotter/Rubeus Hagrid/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
+
 ![Rubeus Hagrid](http://rxbg5ysja.bkt.gdipper.com/Rubeus_Hagrid.png)
 # Introduction
 Professor Rubeus Hagrid (b. 6 December 1928) was an English half-giant wizard, son of Mr Hagrid and the giantess Fridwulfa, and elder half-brother of the giant Grawp. Hagrid stood at eleven feet, six inches tall.
