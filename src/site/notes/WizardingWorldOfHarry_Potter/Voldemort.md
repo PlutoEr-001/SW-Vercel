@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/WizardingWorldOfHarry_Potter/Voldemort/","dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"permalink":"/wizarding-world-of-harry-potter/voldemort/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 ![Voldemort](http://rxbg5ysja.bkt.gdipper.com/Voldemort.png)
