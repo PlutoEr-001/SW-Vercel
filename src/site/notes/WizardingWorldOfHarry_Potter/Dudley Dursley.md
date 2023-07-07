@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/WizardingWorldOfHarry_Potter/Dudley Dursley/","dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"permalink":"/wizarding-world-of-harry-potter/dudley-dursley/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 ![Dudley Dursley](http://rxbg5ysja.bkt.gdipper.com/Dudley_Dursley.png)
