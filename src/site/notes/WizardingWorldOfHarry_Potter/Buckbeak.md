@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wizarding-world-of-harry-potter/buckbeak/","dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"permalink":"/WizardingWorldOfHarry_Potter/Buckbeak/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 ![Buckbeak](http://rxbg5ysja.bkt.gdipper.com/Buckbeak.png)
