@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wizarding-world-of-harry-potter/madam-pince/","dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"permalink":"/WizardingWorldOfHarry_Potter/Madam Pince/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 ![Madam Pince](http://rxbg5ysja.bkt.gdipper.com/Madam_Pince.png)
