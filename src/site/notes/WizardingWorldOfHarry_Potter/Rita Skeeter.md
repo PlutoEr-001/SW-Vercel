@@ -1,9 +1,10 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/WizardingWorldOfHarry_Potter/Rita Skeeter/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
+
 ![Rita Skeeter](http://rxbg5ysja.bkt.gdipper.com/Rita_Skeeter.png)
 # Introduction
-Rita Skeeter (b. 1951) was a British witch and journalist who specialised in writing poison-pen stories. These stories tended to be based on false information and misreported interviews. She wrote articles for the Daily Prophet, as well as a few 'tell-all' biographies. Skeeter preferred writing for the sake of publicity and wrote what she thought people would "like to read" and what was lies rather than what they "ought to read" and which was the truth.
+Rita  Skeeter (b. 1951) was a British witch and journalist who specialised in writing poison-pen stories. These stories tended to be based on false information and misreported interviews. She wrote articles for the Daily Prophet, as well as a few 'tell-all' biographies. Skeeter preferred writing for the sake of publicity and wrote what she thought people would "like to read" and what was lies rather than what they "ought to read" and which was the truth.
 
 Albus Dumbledore in particular described her writing as "enchantingly nasty" after she wrote an unfavourable article about him.
 
