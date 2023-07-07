@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/WizardingWorldOfHarry_Potter/Ernie Mcmillan/","dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"permalink":"/wizarding-world-of-harry-potter/ernie-mcmillan/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 ![Ernie Mcmillan](http://rxbg5ysja.bkt.gdipper.com/Ernie_Mcmillan.png)
