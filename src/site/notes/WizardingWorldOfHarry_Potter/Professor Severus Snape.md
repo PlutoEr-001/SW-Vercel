@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/WizardingWorldOfHarry_Potter/Professor Severus Snape/","dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"permalink":"/wizarding-world-of-harry-potter/professor-severus-snape/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 ![Professor Severus Snape](http://rxbg5ysja.bkt.gdipper.com/Professor_Severus_Snape.png)
