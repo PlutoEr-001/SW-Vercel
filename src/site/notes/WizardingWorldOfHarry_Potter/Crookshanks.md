@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/WizardingWorldOfHarry_Potter/Crookshanks/","dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"permalink":"/wizarding-world-of-harry-potter/crookshanks/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 ![Crookshanks](http://rxbg5ysja.bkt.gdipper.com/Crookshanks.png)
