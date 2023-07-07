@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/WizardingWorldOfHarry_Potter/Hermione Granger/","dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"permalink":"/wizarding-world-of-harry-potter/hermione-granger/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 ![Hermione Granger](http://rxbg5ysja.bkt.gdipper.com/Hermione_Granger.png)
