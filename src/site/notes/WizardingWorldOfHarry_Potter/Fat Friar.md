@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/WizardingWorldOfHarry_Potter/Fat Friar/","dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"permalink":"/wizarding-world-of-harry-potter/fat-friar/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 ![Fat Friar](http://rxbg5ysja.bkt.gdipper.com/Fat_Friar.png)
