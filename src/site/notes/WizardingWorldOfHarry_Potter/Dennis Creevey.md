@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wizarding-world-of-harry-potter/dennis-creevey/","dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"permalink":"/WizardingWorldOfHarry_Potter/Dennis Creevey/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 ![Dennis Creevey](http://rxbg5ysja.bkt.gdipper.com/Dennis_Creevey.png)
